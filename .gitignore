@@ -1,0 +1,8 @@
+# Local working files
+input/
+outputs/
+*.mp4
+*.mov
+*.mp3
+.DS_Store
+.env
